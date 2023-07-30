@@ -1,4 +1,4 @@
-# MetaGPT: The Multi-Agent Framework
+# MetaGPT: The Multi-Agent Framework - Forked
 
 <p align="center">
 <a href=""><img src="docs/resources/MetaGPT-logo.jpeg" alt="MetaGPT logo: Enable GPT to work in software company, collaborating to tackle more complex tasks." width="150px"></a>
@@ -186,15 +186,3 @@ async def startup(idea: str, investment: float = 3.0, n_round: int = 5):
 
 You can check `examples` for more details on single role (with knowledge base) and LLM only examples.
 
-## Contact Information
-
-If you have any questions or feedback about this project, please feel free to contact us. We highly appreciate your suggestions!
-
-- **Email:** alexanderwu@fuzhi.ai
-- **GitHub Issues:** For more technical inquiries, you can also create a new issue in our [GitHub repository](https://github.com/geekan/metagpt/issues).
-
-We will respond to all questions within 2-3 business days.
-
-## Demo
-
-https://github.com/geekan/MetaGPT/assets/2707039/5e8c1062-8c35-440f-bb20-2b0320f8d27d
